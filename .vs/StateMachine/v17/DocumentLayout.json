@@ -1,0 +1,305 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mayaa\\source\\repos\\StateMachine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39A46A5B-5C06-47E7-AE49-9E0FAA5A429F}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\mayaa\\source\\repos\\statemachine\\consoleapp2\\data\\sqlite\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A46A5B-5C06-47E7-AE49-9E0FAA5A429F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\data\\sqlite\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A46A5B-5C06-47E7-AE49-9E0FAA5A429F}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\mayaa\\source\\repos\\statemachine\\consoleapp2\\program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A46A5B-5C06-47E7-AE49-9E0FAA5A429F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A46A5B-5C06-47E7-AE49-9E0FAA5A429F}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\mayaa\\source\\repos\\statemachine\\consoleapp2\\consoleapp2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{39A46A5B-5C06-47E7-AE49-9E0FAA5A429F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\consoleapp2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A46A5B-5C06-47E7-AE49-9E0FAA5A429F}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\mayaa\\source\\repos\\statemachine\\consoleapp2\\classes\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A46A5B-5C06-47E7-AE49-9E0FAA5A429F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\classes\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A46A5B-5C06-47E7-AE49-9E0FAA5A429F}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\mayaa\\source\\repos\\statemachine\\consoleapp2\\program\\initstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A46A5B-5C06-47E7-AE49-9E0FAA5A429F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program\\initstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mayaa\\source\\repos\\StateMachine\\Dir\\sqlite-autoconf-3450300\\sqlite-autoconf-3450300\\Makefile.msc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dir\\sqlite-autoconf-3450300\\sqlite-autoconf-3450300\\Makefile.msc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A46A5B-5C06-47E7-AE49-9E0FAA5A429F}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\mayaa\\source\\repos\\statemachine\\consoleapp2\\statemachine\\statemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A46A5B-5C06-47E7-AE49-9E0FAA5A429F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\statemachine\\statemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A46A5B-5C06-47E7-AE49-9E0FAA5A429F}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\mayaa\\source\\repos\\statemachine\\consoleapp2\\data\\sqlite\\savenewstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A46A5B-5C06-47E7-AE49-9E0FAA5A429F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\data\\sqlite\\savenewstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39A46A5B-5C06-47E7-AE49-9E0FAA5A429F}|ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\mayaa\\source\\repos\\statemachine\\consoleapp2\\classes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39A46A5B-5C06-47E7-AE49-9E0FAA5A429F}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\classes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mayaa\\source\\repos\\StateMachine\\ConsoleApp2\\State.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp2\\State.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mayaa\\source\\repos\\StateMachine\\ConsoleApp2\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp2\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mayaa\\source\\repos\\StateMachine\\ConsoleApp2\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp2\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mayaa\\source\\repos\\StateMachine\\ConsoleApp2\\Store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp2\\Store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mayaa\\source\\repos\\StateMachine\\ConsoleApp2\\StateMachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp2\\StateMachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mayaa\\source\\repos\\StateMachine\\ConsoleApp2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mayaa\\source\\repos\\StateMachine\\ConsoleApp2\\Transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp2\\Transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mayaa\\source\\repos\\StateMachine\\ConsoleApp2\\Action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp2\\Action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 238,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\mayaa\\source\\repos\\StateMachine\\ConsoleApp2\\Data\\SQLite\\Data.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Data\\SQLite\\Data.cs",
+              "ToolTip": "C:\\Users\\mayaa\\source\\repos\\StateMachine\\ConsoleApp2\\Data\\SQLite\\Data.cs",
+              "RelativeToolTip": "ConsoleApp2\\Data\\SQLite\\Data.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAFIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:44:09.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mayaa\\source\\repos\\StateMachine\\ConsoleApp2\\Program\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program\\Program.cs",
+              "ToolTip": "C:\\Users\\mayaa\\source\\repos\\StateMachine\\ConsoleApp2\\Program\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAewAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:31:55.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StateMachine.cs",
+              "DocumentMoniker": "C:\\Users\\mayaa\\source\\repos\\StateMachine\\ConsoleApp2\\StateMachine\\StateMachine.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\StateMachine\\StateMachine.cs",
+              "ToolTip": "C:\\Users\\mayaa\\source\\repos\\StateMachine\\ConsoleApp2\\StateMachine\\StateMachine.cs",
+              "RelativeToolTip": "ConsoleApp2\\StateMachine\\StateMachine.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:39:36.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InitStore.cs",
+              "DocumentMoniker": "C:\\Users\\mayaa\\source\\repos\\StateMachine\\ConsoleApp2\\Program\\InitStore.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program\\InitStore.cs",
+              "ToolTip": "C:\\Users\\mayaa\\source\\repos\\StateMachine\\ConsoleApp2\\Program\\InitStore.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program\\InitStore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:38:05.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SaveNewStore.cs",
+              "DocumentMoniker": "C:\\Users\\mayaa\\source\\repos\\StateMachine\\ConsoleApp2\\Data\\SQLite\\SaveNewStore.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Data\\SQLite\\SaveNewStore.cs",
+              "ToolTip": "C:\\Users\\mayaa\\source\\repos\\StateMachine\\ConsoleApp2\\Data\\SQLite\\SaveNewStore.cs",
+              "RelativeToolTip": "ConsoleApp2\\Data\\SQLite\\SaveNewStore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:35:14.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\mayaa\\source\\repos\\StateMachine\\ConsoleApp2\\Classes\\Employee.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Classes\\Employee.cs",
+              "ToolTip": "C:\\Users\\mayaa\\source\\repos\\StateMachine\\ConsoleApp2\\Classes\\Employee.cs",
+              "RelativeToolTip": "ConsoleApp2\\Classes\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:34:55.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\mayaa\\source\\repos\\StateMachine\\ConsoleApp2\\Classes\\Product.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Classes\\Product.cs",
+              "ToolTip": "C:\\Users\\mayaa\\source\\repos\\StateMachine\\ConsoleApp2\\Classes\\Product.cs",
+              "RelativeToolTip": "ConsoleApp2\\Classes\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T12:34:36.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Action.cs",
+              "DocumentMoniker": "C:\\Users\\mayaa\\source\\repos\\StateMachine\\ConsoleApp2\\Action.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Action.cs",
+              "ToolTip": "C:\\Users\\mayaa\\source\\repos\\StateMachine\\ConsoleApp2\\Action.cs",
+              "RelativeToolTip": "ConsoleApp2\\Action.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T09:40:32.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Makefile.msc",
+              "DocumentMoniker": "C:\\Users\\mayaa\\source\\repos\\StateMachine\\Dir\\sqlite-autoconf-3450300\\sqlite-autoconf-3450300\\Makefile.msc",
+              "RelativeDocumentMoniker": "Dir\\sqlite-autoconf-3450300\\sqlite-autoconf-3450300\\Makefile.msc",
+              "ToolTip": "C:\\Users\\mayaa\\source\\repos\\StateMachine\\Dir\\sqlite-autoconf-3450300\\sqlite-autoconf-3450300\\Makefile.msc",
+              "RelativeToolTip": "Dir\\sqlite-autoconf-3450300\\sqlite-autoconf-3450300\\Makefile.msc",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-27T11:12:02.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Users\\mayaa\\source\\repos\\StateMachine\\ConsoleApp2\\State.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\State.cs",
+              "ToolTip": "C:\\Users\\mayaa\\source\\repos\\StateMachine\\ConsoleApp2\\State.cs",
+              "RelativeToolTip": "ConsoleApp2\\State.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T08:40:54.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\mayaa\\source\\repos\\StateMachine\\ConsoleApp2\\Employee.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Employee.cs",
+              "ToolTip": "C:\\Users\\mayaa\\source\\repos\\StateMachine\\ConsoleApp2\\Employee.cs",
+              "RelativeToolTip": "ConsoleApp2\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T05:56:13.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\mayaa\\source\\repos\\StateMachine\\ConsoleApp2\\Product.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Product.cs",
+              "ToolTip": "C:\\Users\\mayaa\\source\\repos\\StateMachine\\ConsoleApp2\\Product.cs",
+              "RelativeToolTip": "ConsoleApp2\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T05:55:48.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\mayaa\\source\\repos\\StateMachine\\ConsoleApp2\\Store.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Store.cs",
+              "ToolTip": "C:\\Users\\mayaa\\source\\repos\\StateMachine\\ConsoleApp2\\Store.cs",
+              "RelativeToolTip": "ConsoleApp2\\Store.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T05:53:13.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StateMachine.cs",
+              "DocumentMoniker": "C:\\Users\\mayaa\\source\\repos\\StateMachine\\ConsoleApp2\\StateMachine.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\StateMachine.cs",
+              "ToolTip": "C:\\Users\\mayaa\\source\\repos\\StateMachine\\ConsoleApp2\\StateMachine.cs",
+              "RelativeToolTip": "ConsoleApp2\\StateMachine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T11:17:06.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mayaa\\source\\repos\\StateMachine\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\mayaa\\source\\repos\\StateMachine\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T11:15:18.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsoleApp2.csproj",
+              "DocumentMoniker": "C:\\Users\\mayaa\\source\\repos\\StateMachine\\ConsoleApp2\\ConsoleApp2.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp2\\ConsoleApp2.csproj",
+              "ToolTip": "C:\\Users\\mayaa\\source\\repos\\StateMachine\\ConsoleApp2\\ConsoleApp2.csproj",
+              "RelativeToolTip": "ConsoleApp2\\ConsoleApp2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-26T11:12:10.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Transactions.cs",
+              "DocumentMoniker": "C:\\Users\\mayaa\\source\\repos\\StateMachine\\ConsoleApp2\\Transactions.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Transactions.cs",
+              "ToolTip": "C:\\Users\\mayaa\\source\\repos\\StateMachine\\ConsoleApp2\\Transactions.cs",
+              "RelativeToolTip": "ConsoleApp2\\Transactions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA+wAIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T09:46:42.873Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
